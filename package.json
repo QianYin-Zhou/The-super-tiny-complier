@@ -1,0 +1,15 @@
+{
+  "name": "the-super-tiny-complier",
+  "version": "1.0.0",
+  "description": "最小的编译器",
+  "main": "start.js",
+  "scripts": {
+    "compile": "node start.js",
+    "test": "mocha"
+  },
+  "author": "cissy",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  }
+}
